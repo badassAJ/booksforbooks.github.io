@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #EFF5F5;
-    background-image: url("backgroundd.jpg") ;
+    background-color: #1A120B;
+    background-image: url("https://media.istockphoto.com/id/1335708681/photo/stacks-of-books-for-teaching-knowledge-college-library-green-background.jpg?b=1&s=170667a&w=0&k=20&c=_-kpFpVyUWgiCafriJgZ6Wr_kLQ2kt19SSCZvlWK63Y=") ;
 }
 .main-nav {
     display: flex;
@@ -32,7 +32,7 @@ footer {
 }
 div{
     margin-top: 5%;
-    background-color: #D6E4E5;
+    background-color: #FCFFE7;
     text-align: center;
     border-radius: 5px;
     border-style: inset;
@@ -78,6 +78,7 @@ label{
 input{
     height: 30px;
     width: 80%;
+    background-color: #FFB100;
     border: none;
     border-radius: 15px;
     margin-left: 2px ;
